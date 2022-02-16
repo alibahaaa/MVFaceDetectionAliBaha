@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323842054359",
+    "project_id": "machinevision-alibaha",
+    "storage_bucket": "machinevision-alibaha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323842054359:android:b45c0fcf90e7d591dab892",
+        "android_client_info": {
+          "package_name": "ir.qut.machinevision.alibaha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323842054359-79qrf31dc5deb4nplsgb44qqoat5vq9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwKUiUWVqqaGLEkJsTA-GUI_qYMxzMvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323842054359-79qrf31dc5deb4nplsgb44qqoat5vq9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
